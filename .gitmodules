@@ -1,3 +1,6 @@
 [submodule "ocvx-tp1"]
 	path = ocvx-tp1
 	url = git@github.com:RomainFoucher/ocvx-tp1.git
+[submodule "ocvx-tp2"]
+	path = ocvx-tp2
+	url = git@github.com:RomainFoucher/ocvx-tp2.git
